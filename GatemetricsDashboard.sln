@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatemetricsData", "GatemetricsData.csproj", "{94574061-4901-44F3-82E3-C487214F2271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardClient", "..\DashboardMetrics\DashboardClient.csproj", "{199D5D70-8E0C-4819-8FA5-9F3968312FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94574061-4901-44F3-82E3-C487214F2271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94574061-4901-44F3-82E3-C487214F2271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94574061-4901-44F3-82E3-C487214F2271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94574061-4901-44F3-82E3-C487214F2271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199D5D70-8E0C-4819-8FA5-9F3968312FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199D5D70-8E0C-4819-8FA5-9F3968312FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199D5D70-8E0C-4819-8FA5-9F3968312FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199D5D70-8E0C-4819-8FA5-9F3968312FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24660B8C-1AE0-418A-8F98-6AFFCA6C1C00}
+	EndGlobalSection
+EndGlobal
